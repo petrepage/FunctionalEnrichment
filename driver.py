@@ -1,4 +1,4 @@
-from alon_prune import alon_prune
+from package.alon_prune import alon_prune
 import numpy as np
 import pandas as pd
 import json
