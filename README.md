@@ -1,2 +1,2 @@
 # FunctionalEnrichment
-package for use in functionally enriching reverse engineered biological networks
+Package for use in functionally enriching reverse engineered biological networks
